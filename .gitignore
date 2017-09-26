@@ -1,5 +1,6 @@
 .idea
 node_modules/
 app/
+web/events.json
 gulpfile.js
 package.json
